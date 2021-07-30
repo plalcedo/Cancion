@@ -1,2 +1,2 @@
 # Practica 2
- Canción
+Práctica de HTML y CSS usando una canción, agregando su letra y su videoclip
